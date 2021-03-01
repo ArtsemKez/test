@@ -1,0 +1,15 @@
+.contentText{
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.content{
+    padding: 100px 0px 0px 0px;
+    z-index: 1;
+}
+
+@media (max-width: 767px){
+    .content{
+        padding: 50px 0px 0px 0px;
+    }
+}
